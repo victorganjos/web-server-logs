@@ -22,13 +22,16 @@ Este projeto foi desenvolvido utilizando o databricks community, para executá-l
 
 # Configuração do projeto
 > Realize o download do projeto através do comando no seu terminal com git instalado:  
-> git clone https://github.com/victorganjos/web-server-logs.git`  
+> git clone https://github.com/victorganjos/web-server-logs.git  
 Se não possui o git instalado, siga a documentação: https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git  
 
 Após realizar o clone do projeto, será necessário criar uma conta gratuíta no databricks community!
 
-> Acesse ao link: https://community.cloud.databricks.com/  
+> Acesse ao link: https://www.databricks.com/try-databricks#account
 > Crie a sua conta gratuíta e efetue o login!
+
+> Caso já tenha conta, acesse o link e efetue o login!
+> Acesse ao link: https://community.cloud.databricks.com/  
 
 
 Agora siga os passos abaixo:
